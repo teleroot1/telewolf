@@ -240,7 +240,7 @@ function create_config( )
     "lock_english",
     "cleandeleted",
     "muteall",
-179694654    "weather",
+    "weather",
     "tr",
     "ping",
     "mean",
